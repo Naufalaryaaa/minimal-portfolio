@@ -1,7 +1,7 @@
 export default [
    {
       title: 'Web Portfolio',
-      imgUrl: '/assets/PORTFOLIo.PNG',
+      imgUrl: '/assets/PORTFOLIO.PNG',
       stack: ['HTML', 'CSS', 'JavaScript'],
       link: 'https://webportofolio-three.vercel.app/',
    },
@@ -14,7 +14,7 @@ export default [
    {
       title: 'Eid Greeting',
       imgUrl: '/assets/ucapanlebaran.png',
-      stack: ['Python', 'HTML'],
+      stack: ['HTML', 'JavaScript', 'CSS'],
       link: 'https://ucapan-lebaran-rho.vercel.app',
    },
    {
