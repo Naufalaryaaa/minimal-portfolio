@@ -1,7 +1,7 @@
 export default [
    {
       title: 'Web Portfolio',
-      imgUrl: '/assets/PORTFOLIO.PNG',
+      imgUrl: '/assets/PORTFOLIO.png',
       stack: ['HTML', 'CSS', 'JavaScript'],
       link: 'https://webportofolio-three.vercel.app/',
    },
